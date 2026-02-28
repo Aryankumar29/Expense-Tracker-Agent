@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Docker volumes
+n8n_data/
+postgres_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
